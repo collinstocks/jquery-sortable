@@ -30,7 +30,7 @@ GEM
     eventmachine (0.12.10)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    ffi (1.9.3)
+    ffi (1.13.1)
     fssm (0.2.10)
     guard (1.2.3)
       listen (>= 0.4.2)
